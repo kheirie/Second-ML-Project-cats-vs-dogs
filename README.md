@@ -9,4 +9,14 @@ The objective was to:
 For a better comprehensive understanding of the architecture of convolutional neural networks, I wrote the following article: https://kheirie-elhariri.medium.com/convolutional-neural-networks-for-image-classification-c403159e81af
 
 ## About the Data 
-Data used in this project can be found here: https://www.kaggle.com/tongpython/cat-and-dog 
+Data used in this project can be found here: https://www.kaggle.com/tongpython/cat-and-dog
+
+## Requirements
+The following are necessary to run the notebook:
+- Python == 3.12.11
+- TensorFlow == 2.19
+- Pandas == 2.2.2
+- NumPy == 2.0.2
+- scikit-learn == 1.6.1
+- Matplotlib == 3.10
+
