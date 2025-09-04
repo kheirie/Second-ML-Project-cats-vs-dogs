@@ -20,3 +20,8 @@ The following are necessary to run the notebook:
 - scikit-learn == 1.6.1
 - Matplotlib == 3.10
 
+## Evaluation and Metrics 
+This is a binary classification problem (cats vs dogs), and the dataset is balanced (roughly equal number of cat and dog images). Therefore, accuracy was chosen as the primary evaluation metric.
+- The model achieved an accuracy of ~90% on the test set.
+- Both training accuracy/loss and validation accuracy/loss were plotted across epochs to analyze performance.
+- Early stopping was applied on the validation loss to prevent overfitting and stop training once the model stopped improving.
